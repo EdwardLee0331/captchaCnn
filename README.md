@@ -1,1 +1,2 @@
 # captchaCnn
+基于卷积神经网络的验证码识别.该实现是用Google开源的TensorFlow深度学习框架.
